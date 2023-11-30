@@ -1,0 +1,1 @@
+ALTER TABLE "stations"."MeteoData" ADD COLUMN IF NOT EXISTS "aggregate" VARCHAR(32);
